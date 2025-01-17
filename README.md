@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayanchatterjee-170&label=Profile%20views&color=0e75b6&style=flat" alt="sayanchatterjee-170" /> </p>
 
-- 🔭 I’m currently working on **React.js & Express.js**
+- 🔭 I’m currently working on **Selenium, Java, Docker**
 
 - 🌱 I’m currently learning **Next.js**
 
